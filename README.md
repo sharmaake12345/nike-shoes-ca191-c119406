@@ -1,3 +1,3 @@
 Name : Sharmake Hilowle osman
-ID : CA191
-NAME: C119406
+Class : CA191
+ID: C119406
